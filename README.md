@@ -9,15 +9,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : Esthief
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:** Alejandra De La Torre Moreno
 
 **Resumen** : lorem ipsun dolor.... 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
