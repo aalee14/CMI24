@@ -19,7 +19,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Robo
 
-**Logotipo** : 
+**Logotipo** : https://github.com/aalee14/aalee14.github.io/blob/main/OIP.jpg
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
