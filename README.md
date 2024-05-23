@@ -11,17 +11,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Esthief
 
-**Web:**   https://    (url github.io)
+**Web:**   https://aalee14.github.io
 
 **Autor:** Alejandra De La Torre Moreno
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : juego de colección de objetos
 
-**Estilo/género:**  Juego
+**Estilo/género:**  Robo
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
